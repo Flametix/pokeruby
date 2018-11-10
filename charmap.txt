@@ -641,6 +641,7 @@ MUS_BATTLE34   = CF 01
 MUS_BATTLE35   = D0 01
 MUS_BATTLE38   = D1 01
 MUS_BATTLE30   = D2 01
+evangelon      = D3 01
 
 '\l' = FA @ scroll up window text
 '\p' = FB @ new paragraph

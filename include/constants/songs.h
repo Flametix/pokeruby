@@ -367,6 +367,8 @@
 #define MUS_BATTLE35 464        // Battle! Rival
 #define MUS_BATTLE38 465        // Battle! Elite Four
 #define MUS_BATTLE30 466        // Battle! Archie/Maxie
+//467 is the radio tower
+#define evangelon 468
 
 #define MUS_ROUTE_118 0x7FFF  // What is this for?
 
